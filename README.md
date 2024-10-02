@@ -51,8 +51,8 @@
 ###  &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/hamritha-v-0064342b3/"><img src="https://img.shields.io/badge/-Hamritha%20V-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:hamrithav3@gmail.com"><img src="https://img.shields.io/badge/-gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://github.com/H432a"><img src="https://img.shields.io/badge/-H432a-181717?style=flat&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hamritha-v-0064342b3/" target="_blank"><img src="https://img.shields.io/badge/-Hamritha%20V-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:hamrithav3@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://github.com/H432a" target="_blank"><img src="https://img.shields.io/badge/-H432a-181717?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
