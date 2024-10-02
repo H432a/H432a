@@ -1,14 +1,20 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">Hi there! I'm Hamritha :)</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='50' align="left"/>
+<h2 align="left">Hi there! I'm Hamritha :)</h2>
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="350"/>
+
+<div align="left" style="margin-top: 20px;">
 
 ### &nbsp;About Me  
-- 2nd Year BTech CSE (IoT) student at Shiv Nadar University Chennai  
-- I enjoy **Competitive Programming**, tackling complex problems, and exploring **algorithms**.  
-- Currently diving into Web Development and **Machine Learning** to further expand my skill set.  
-- Enthusiastic about **IoT** (Internet of Things) and focused on developing innovative solutions that connect the physical and digital worlds.  
+- 2nd Year BTech CSE (IoT) student at Shiv Nadar University Chennai
+- I enjoy **Competitive Programming**, and exploring **algorithms**.<br>
+- Currently exploring **Web Development** and **Machine Learning** to enhance my skills 
+- Enthusiastic about **IoT** (Internet of Things) and focused on developing innovative solutions that
+  connect the physical and digital worlds.  
 - Let's connect and collaborate on creating innovative solutions together!
 
+</div>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ###  &nbsp;Tech Stack
 
@@ -20,7 +26,7 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
-### 🗃 &nbsp;Databases
+###  &nbsp;Databases
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
