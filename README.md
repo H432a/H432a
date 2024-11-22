@@ -8,7 +8,6 @@
 ###
 - A 2nd Year BTech CSE (IoT) student at Shiv Nadar University Chennai
 - I enjoy **Competitive Programming**, and exploring **algorithms**.<br>
-- Currently exploring **Web Development** and **Machine Learning** to enhance my skills 
 - Enthusiastic about **IoT** (Internet of Things) and focused on developing innovative solutions that
   connect the physical and digital worlds.  
 - Let's connect and collaborate on creating innovative solutions together!
