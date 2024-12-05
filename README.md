@@ -12,9 +12,14 @@
   connect the physical and digital worlds.  
 - Let's connect and collaborate on creating innovative solutions together!
 
+
+
+
+
+  
 </div>
 
----
+
 ###  &nbsp;Tech Stack
 
 <p align="left"> 
