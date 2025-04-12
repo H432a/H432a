@@ -6,6 +6,7 @@
 <div align="left" style="margin-top: 20px;">
 
 ###
+
 - A 2nd Year BTech CSE student at Shiv Nadar University Chennai
 - I enjoy **Competitive Programming**, and exploring **algorithms**.<br>
 - Enthusiastic about **IoT** (Internet of Things) and focused on developing innovative solutions that
@@ -15,7 +16,6 @@
 
   <br>
   <br>
-  <br>  
 </div>
 
 
