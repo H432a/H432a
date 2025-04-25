@@ -93,7 +93,7 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
 </div>
   
-###  &nbsp;Connect with Me
+###  &nbsp;Send a Hi:)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/hamritha-v-0064342b3/" target="_blank"><img src="https://img.shields.io/badge/-Hamritha%20V-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
