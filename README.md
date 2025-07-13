@@ -7,7 +7,7 @@
 
 ###
 
-- A 2nd Year BTech CSE student at Shiv Nadar University Chennai
+- A Pre-final year BTech CSE student at Shiv Nadar University Chennai
 - I enjoy **Competitive Programming**, and exploring **algorithms**.<br>
 - Enthusiastic about **IoT** (Internet of Things) and focused on developing innovative solutions that
   connect the physical and digital worlds.
