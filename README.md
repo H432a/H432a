@@ -59,8 +59,8 @@
 ### &nbsp;Databases
 <p align="left"> 
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" style="margin-right:8px;"/>
-  </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  </a>&nbsp;&nbsp;
 </p>
 
 ### &nbsp;Version Control & Tools
@@ -69,7 +69,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://github.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+    <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" width="40"/>
   </a>
 </p>
 
