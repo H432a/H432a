@@ -57,14 +57,14 @@
 </p>
 
 ###  &nbsp;Databases
-<p align="left"> 
+<p align="left" style="white-space: nowrap;"> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
 </p>
 
 ###  &nbsp;Version Control & Tools
-<p align="left"> 
+<p align="left" style="white-space: nowrap;"> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
