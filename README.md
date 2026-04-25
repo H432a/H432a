@@ -56,21 +56,21 @@
   </a>
 </p>
 
-###  &nbsp;Databases
-<p align="left" style="white-space: nowrap;"> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
+### &nbsp;Databases
+<p align="left"> 
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" style="margin-right:8px;"/>
+  </a>
 </p>
 
-###  &nbsp;Version Control & Tools
-<p align="left" style="white-space: nowrap;"> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_960_720.png" alt="git" width="40" height="40"/> 
-  </a> 
+### &nbsp;Version Control & Tools
+<p align="left"> 
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  </a>
 </p>
 
 ###  &nbsp;GitHub Analytics
